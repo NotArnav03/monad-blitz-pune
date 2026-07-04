@@ -1,0 +1,15 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Secrets
+.env
+
+# Node (later layers)
+node_modules/
+dist/
+.DS_Store
+
+# Frontend bundle — kept local only, not pushed to the fork
+frontend/
